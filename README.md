@@ -26,8 +26,8 @@ Additionally, each numeral cannot be written more than 3 times in a row. Ex: XXX
 The additional rules for when a lower value Roman numeral is placed before a higher value numeral as shown below. The lower value numeral decreases the 
 higher value numeral by the value of the lower value numeral.
 
-I can be placed before V (5) and X (10) to make 4 and 9. 
+I (1) can be placed before V (5) and X (10) to make 4 and 9. 
 
-X can be placed before L (50) and C (100) to make 40 and 90. 
+X (10) can be placed before L (50) and C (100) to make 40 and 90. 
 
-C can be placed before D (500) and M (1000) to make 400 and 900.
+C (100) can be placed before D (500) and M (1000) to make 400 and 900.
